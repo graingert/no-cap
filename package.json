@@ -1,0 +1,9 @@
+{
+  "name": "no-cap",
+  "version": "0.1.0",
+  "description": "Disable capping on lodash/fp",
+  "main": "index.js",
+  "repository": "git@github.com:graingert/no-cap.git",
+  "author": "Thomas Grainger <no-cap@graingert.co.uk>",
+  "license": "MIT"
+}
